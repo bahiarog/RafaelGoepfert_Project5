@@ -2,11 +2,11 @@
 Vr Project is a VR app for iOS Devices. This app is the result of an VR Degree on udacity.com
 # Quick Start
 To get started putting VR app on iOS, navigate to the Apple ID website and create a free account. Note that this account will not be able to publish apps to the store unless you pay Apple's yearly fee, but you can still test on your personal device. Once you have created an account, you will need to install the latest version of XCode from the Mac App Store.
-**XCode Setup**
+##**XCode Setup**
 This is a BIG download so feel free to step away from your computer or check out more VR apps. Once it is installed, go ahead and open Xcode and from the menu bar, select Xcode > Preferences.
 
 Choose Accounts at the top of the window to display information about the Apple IDs that have been added to Xcode. Click the plus sign in the bottom-left corner and choose Add Apple ID. Enter the e-mail and password for the account you created. With that, XCode should be setup.
-**Unity Setup**
+###**Unity Setup**
 Let’s now hop into Unity. Once Unity opens into the Udacity project, go to File > Build Settings...
 Here, let’s click iOS, then Switch Platform. This may take a minute.
 
